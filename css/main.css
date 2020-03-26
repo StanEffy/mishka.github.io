@@ -71,6 +71,10 @@ input[type='radio'].visually-hidden {
 /* this file is used for blocks/page-header */
 .page-header ul {
   list-style: none; }
+.site-nav a,
+.user-nav a {
+color: #000000;
+}
 
 .site-nav,
 .user-nav {
