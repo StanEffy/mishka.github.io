@@ -72,7 +72,8 @@ input[type='radio'].visually-hidden {
 .page-header ul {
   list-style: none; }
 .site-nav a,
-.user-nav a {
+.user-nav a,
+.offer-nav a{
 color: #000000;
 }
 
